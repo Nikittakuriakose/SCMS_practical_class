@@ -1,0 +1,11 @@
+2. Domain Knowledge
+
+In the banking and finance sector, loan eligibility is determined based on several factors, including:
+
+Credit History: A customer with a strong credit history has a higher chance of being approved.
+
+Income and Loan Amount: The loan amount should align with the applicant's income to ensure they have the capacity to repay.
+
+Dependents and Marital Status: More dependents or being unmarried can impact disposable income, influencing loan eligibility.
+
+Property Area: The type of property (urban, rural, semi-urban) may affect the approval rate based on risk and value assessments.

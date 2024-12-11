@@ -1,0 +1,18 @@
+1. Business Understanding
+
+Objective:
+Dream Housing Finance aims to automate the loan eligibility process based on customer details provided in their online application form. The company currently operates across urban, semi-urban, and rural areas and wishes to quickly identify customer segments eligible for loans, thereby targeting them more effectively.
+
+Problem Statement:
+The company wants to automate the loan eligibility process based on various customer attributes such as:
+
+Gender
+Marital Status
+Education
+Dependents
+Income (Applicant and Coapplicant)
+Loan Amount
+Credit History
+Property Area
+The goal is to predict if a customer is eligible for a loan based on these details.
+
